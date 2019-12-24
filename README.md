@@ -41,15 +41,9 @@ Sample Input
 
 Sample Output
 
-Request #1: Fly from Albuquerque to San Diego?
-
-HPAir flies from Albuquerque to San Diego.
-
-Request #2: Fly from Albuquerque to Paris?
-
-Sorry. HPAir does not serve Paris.
-
-Request #3: Fly from San Diego to Chicago?
-
-Sorry. HPAir does not fly from San Diego to Chicago.
-
+        Request #1: Fly from Albuquerque to San Diego?
+        HPAir flies from Albuquerque to San Diego.
+        Request #2: Fly from Albuquerque to Paris?
+        Sorry. HPAir does not serve Paris.
+        Request #3: Fly from San Diego to Chicago?
+        Sorry. HPAir does not fly from San Diego to Chicago.
