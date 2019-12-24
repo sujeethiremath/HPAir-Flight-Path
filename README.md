@@ -21,29 +21,22 @@ Sample Input
 
 • cityFile:
 
-  Albuquerque
-  
-  Chicago
-  
-  San Diego
-  
+    Albuquerque
+    Chicago
+    San Diego
   
 • flightFile:
 
-  Chicago,San Diego
-  
-  Chicago,Albuquerque
-  
-  Albuquerque,Chicago
+    Chicago,San Diego
+    Chicago,Albuquerque
+    Albuquerque,Chicago
   
   
 • requestFile:
 
-  Albuquerque,San Diego
-  
-  Albuquerque,Paris
-  
-  San Diego,Chicago
+    Albuquerque,San Diego
+    Albuquerque,Paris
+    San Diego,Chicago
   
 
 Sample Output
